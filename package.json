@@ -1,13 +1,13 @@
 {
-  "name": "react-draft-wysiwyg",
-  "version": "1.15.0",
+  "name": "react-draft-produxiom",
+  "version": "1.15.6",
   "description": "A wysiwyg on top of DraftJS.",
   "main": "dist/react-draft-wysiwyg.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/jpuri/react-draft-wysiwyg.git"
+    "url": "https://github.com/shubhamk54/react-draft-produxiom.git"
   },
-  "author": "Jyoti Puri",
+  "author": "Jyoti Puri, Aan Fadhil, Shubham Kale",
   "devDependencies": {
     "@babel/core": "^7.7.4",
     "@babel/preset-env": "^7.7.4",

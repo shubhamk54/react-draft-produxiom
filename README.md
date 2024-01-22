@@ -1,9 +1,9 @@
 # React Draft Wysiwyg
 
 A Wysiwyg editor built using ReactJS and DraftJS libraries.
-[Demo Page](https://jpuri.github.io/react-draft-wysiwyg).
+[Demo Page](https://jpuri.github.io/react-draft-produxiom).
 
-[![Build Status](https://travis-ci.org/jpuri/react-draft-wysiwyg.svg?branch=master)](https://travis-ci.org/jpuri/react-draft-wysiwyg)
+[![Build Status](https://travis-ci.org/jpuri/react-draft-produxiom.svg?branch=master)](https://travis-ci.org/jpuri/react-draft-produxiom)
 
 ![](http://i.imgur.com/tU7kJ6i.gif)
 
@@ -39,10 +39,10 @@ A Wysiwyg editor built using ReactJS and DraftJS libraries.
 
 ## Installing
 
-The package can be installed from npm `react-draft-wysiwyg`
+The package can be installed from npm `react-draft-produxiom`
 
 ```
-$ npm install --save react-draft-wysiwyg draft-js
+$ npm install --save react-draft-produxiom draft-js
 ```
 
 ## Getting started
@@ -50,8 +50,8 @@ $ npm install --save react-draft-wysiwyg draft-js
 Editor can be used as simple React Component:
 
 ```js
-import { Editor } from "react-draft-wysiwyg";
-import "react-draft-wysiwyg/dist/react-draft-wysiwyg.css";
+import { Editor } from "react-draft-produxiom";
+import "react-draft-produxiom/dist/react-draft-produxiom.css";
 <Editor
   editorState={editorState}
   toolbarClassName="toolbarClassName"

@@ -45,7 +45,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/jpuri/react-draft-wysiwyg.git"
+    "url": "https://github.com/shubhamk54/react-draft-produxiom.git"
   },
   "scripts": {
     "clean": "rimraf static",
